@@ -127,9 +127,6 @@ endmodule
 
 <div align="center">
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Chethan-Aithal&color=58a6ff&style=flat-square&label=Profile+Views)
-
 <!-- Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chethan-Aithal&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&hide_border=true" alt="Contribution Graph" />
 
