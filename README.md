@@ -130,12 +130,8 @@ endmodule
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Chethan-Aithal&color=58a6ff&style=flat-square&label=Profile+Views)
 
-<!-- Snake Animation (Note: This will be a broken image link until you setup and run the GitHub Action in setup_guide.md!) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chethan-Aithal/Chethan-Aithal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chethan-Aithal/Chethan-Aithal/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chethan-Aithal/Chethan-Aithal/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chethan-Aithal&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&hide_border=true" alt="Contribution Graph" />
 
 <br>
 
