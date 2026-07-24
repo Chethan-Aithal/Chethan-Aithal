@@ -98,9 +98,10 @@ endmodule
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Chethan-Aithal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="GitHub Stats" />
+<!-- Alternative GitHub Stats that are more reliable -->
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chethan-Aithal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chethan-Aithal&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chethan-Aithal&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
@@ -129,7 +130,7 @@ endmodule
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Chethan-Aithal&color=58a6ff&style=flat-square&label=Profile+Views)
 
-<!-- Snake Animation -->
+<!-- Snake Animation (Note: This will be a broken image link until you setup and run the GitHub Action in setup_guide.md!) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chethan-Aithal/Chethan-Aithal/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chethan-Aithal/Chethan-Aithal/output/github-contribution-grid-snake.svg">
