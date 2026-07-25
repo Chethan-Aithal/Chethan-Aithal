@@ -12,23 +12,7 @@
 
 ## Professional Summary
 
-```verilog
-module VLSI_Engineer (
-    input  wire clk,
-    input  wire rst_n,
-    output reg  [31:0] skill_level
-);
-    // Electronics & Communication Engineering Student
-    // Focused on RTL Design, FPGA Implementation, and Design Verification
 
-    always @(posedge clk or negedge rst_n) begin
-        if (!rst_n)
-            skill_level <= 32'h0;
-        else
-            skill_level <= skill_level + 1'b1; // Continuous Learning
-    end
-endmodule
-```
 
 > Aspiring **VLSI Engineer** with hands-on experience in **RTL Design**, **Design Verification (DV)**, and **FPGA Development**. 
 > B.E. in Electronics and Communication Engineering (ECE), specializing in digital systems and hardware architecture.
@@ -127,8 +111,6 @@ endmodule
 
 <div align="center">
 
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chethan-Aithal&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&hide_border=true" alt="Contribution Graph" />
 
 <br>
 
