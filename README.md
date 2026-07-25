@@ -76,26 +76,7 @@
 
 </div>
 
----
 
-## GitHub Statistics
-
-<div align="center">
-
-<!-- Alternative GitHub Stats that are more reliable -->
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chethan-Aithal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chethan-Aithal&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chethan-Aithal&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=3FB950&fire=F78166&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## Connect With Me
 
@@ -111,12 +92,7 @@
 
 <div align="center">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chethan-Aithal/Chethan-Aithal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chethan-Aithal/Chethan-Aithal/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chethan-Aithal/Chethan-Aithal/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 <br>
 
